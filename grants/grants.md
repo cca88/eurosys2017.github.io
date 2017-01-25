@@ -39,7 +39,7 @@ Receivers of a EuroSys Grant will register with a special promotion code. Theref
 
 ## Contacts
 
-For more information, contact the grant co-chairs:
+For more information contact the grant co-chairs, using the email address below:
 
 * [Christian Cachin](https://www.zurich.ibm.com/~cca/), IBM Research - Zurich
 * [Rüdiger Kapitza](https://www.ibr.cs.tu-bs.de/users/kapitza/), TU Braunschweig
